@@ -1,21 +1,21 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Sai Vardhan</h1>
+<h3 align="center">Driven by curiosity, passionate about building reliable software</h3>
 
-<!--
-**SaiVardhanKallempudi/SaiVardhanKallempudi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🎓 Final-year **Computer Science (AI/ML)** student  
+- 💻 Full-Stack Developer with strong focus on **Backend Engineering**
+- 🧠 Interested in **system design, APIs, scalable architectures**
+- 🔧 Experienced with **Angular + Spring Boot** based applications
+- 🌱 Continuously learning and improving through real-world projects
+- 🎯 Aspiring **Software Engineer / Backend Developer**
 
+---
 
--->
+## 🛠️ Tech Stack & Tools
+
 <div align="center">
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/websocket.png" alt="websocket" title="websocket"/></code>
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/rest.png" alt="REST" title="REST"/></code>
@@ -39,3 +39,33 @@ Here are some ideas to get you started:
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mysql.png" alt="MySQL" title="MySQL"/></code>
 </div>
 
+---
+
+## 📌 What I Build
+
+- 🔐 Secure authentication & authorization systems  
+- 🌐 RESTful APIs & real-time services  
+- 🧩 Full-stack applications with Angular & Spring Boot  
+- 📊 Data-driven dashboards and backend services  
+- ⚙️ Scalable, maintainable, production-ready code  
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SaiVardhanKallempudi&show_icons=true&theme=default" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaiVardhanKallempudi&layout=compact&theme=default" height="160"/>
+</p>
+
+---
+
+## 🤝 Let’s Connect
+
+- 💼 Open to **internships & entry-level software roles**
+- 🌱 Always excited to learn and collaborate
+- 📫 Reach me through GitHub or LinkedIn
+
+---
+
+⭐ *“Building software with purpose, performance, and passion.”*
