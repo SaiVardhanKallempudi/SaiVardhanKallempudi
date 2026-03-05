@@ -117,23 +117,17 @@ const saiVardhan = {
 
 </div>
 
----
 
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SaiVardhanKallempudi&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaiVardhanKallempudi&layout=compact&theme=react&langs_count=8"/>
+  <img height="180em" src="https://github-readme-stats-dnrnrmyrp-saivardhankallempudis-projects.vercel.app/api?username=SaiVardhanKallempudi&show_icons=true&theme=react&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats-dnrnrmyrp-saivardhankallempudis-projects.vercel.app/api/top-langs/?username=SaiVardhanKallempudi&layout=compact&theme=react&langs_count=8" />
 </div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SaiVardhanKallempudi&theme=react" alt="GitHub Streak Stats"/>
 </div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SaiVardhanKallempudi&theme=darkhub" alt="GitHub Trophies"/>
-</div>
----
 
 ## 📈 Contribution Graph
 
