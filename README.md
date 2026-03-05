@@ -120,8 +120,12 @@ const saiVardhan = {
 
 ## 📊 GitHub Analytics
 
+## 📊 GitHub Analytics
+
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-dnrnrmyrp-saivardhankallempudis-projects.vercel.app/api?username=SaiVardhanKallempudi" />
+  <img src="https://github-readme-stats-dnrnrmyrp-saivardhankallempudis-projects.vercel.app/api?username=SaiVardhanKallempudi&show_icons=true&theme=react" />
+</div>
+<div>
   <img height="180em" src="https://github-readme-stats-dnrnrmyrp-saivardhankallempudis-projects.vercel.app/api/top-langs/?username=SaiVardhanKallempudi&layout=compact&theme=react&langs_count=8" />
 </div>
 
