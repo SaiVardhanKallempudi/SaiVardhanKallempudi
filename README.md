@@ -128,7 +128,6 @@ const saiVardhan = {
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SaiVardhanKallempudi&theme=react" alt="GitHub Streak Stats"/>
 </div>
-
 ## 📈 Contribution Graph
 
 <div align="center">
